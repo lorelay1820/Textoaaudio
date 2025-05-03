@@ -20,10 +20,10 @@ except:
     pass
 
 st.subheader(" El Pájaro Amarillo y el Espejo.")
-st.write('Un pequeño pájaro amarillo volaba alegre cada mañana, admirando su reflejo en el lago.
-'Se creía el más bello del bosque y evitaba a los demás animales, pensando que no estaban a su altura.
-'Un día, vio un objeto brillante entre los arbustos: era un espejo roto.
-'Al mirarse, su reflejo se distorsionó y pensó que había perdido su belleza. Triste, bajó la cabeza y empezó a hablar con los otros animales por primera vez.
+st.write('Un pequeño pájaro amarillo volaba alegre cada mañana, admirando su reflejo en el lago.'
+'Se creía el más bello del bosque y evitaba a los demás animales, pensando que no estaban a su altura.'
+'Un día, vio un objeto brillante entre los arbustos: era un espejo roto.'
+'Al mirarse, su reflejo se distorsionó y pensó que había perdido su belleza. Triste, bajó la cabeza y empezó a hablar con los otros animales por primera vez.'
 'Para su sorpresa, ellos lo recibieron con cariño. Descubrió que su canto y su alegría eran mucho más valiosos que sus plumas doradas.'
         
         )
